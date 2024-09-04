@@ -1,0 +1,8 @@
+{
+  "name": "compound-config",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:yuge9413/compound-config.git",
+  "author": "平凡公子 <282729573@qq.com>",
+  "license": "MIT"
+}
